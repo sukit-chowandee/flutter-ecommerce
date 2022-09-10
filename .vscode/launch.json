@@ -1,0 +1,28 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "shopee-mobile-dev",
+			"request": "launch",
+			"type": "dart",
+			"args": [
+				"dev",
+				"-t",
+				"lib/main_dev.dart"
+			]
+		},
+		{
+			"name": "shopee-mobile-prod",
+			"request": "launch",
+			"type": "dart",
+			"args": [
+				"dev",
+				"-t",
+				"lib/main_prod.dart"
+			]
+		},
+	]
+}
