@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:shopee_clone/modules/language/bloc/language_bloc.dart';
 import 'package:shopee_clone/modules/login/views/login_screen.dart';
-import 'package:shopee_clone/main/views/main_screen.dart';
+import 'package:shopee_clone/modules/main/views/main_screen.dart';
 import 'package:shopee_clone/modules/splash/views/splash_screen.dart';
 
 class SPRouter {
