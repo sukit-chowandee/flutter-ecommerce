@@ -20,7 +20,11 @@
 		"new_user": "ผู้ใช้ใหม่"
 	},
 	"login": {
-		"sign_in": "เข้าสู่ระบบ"
+		"sign_in": "เข้าสู่ระบบ",
+		"username": "ชื่อผู้ใช้",
+		"password": "รหัสผ่าน",
+		"pls_input_username": "กรุณากรอกชื่อผู้ใช้",
+		"pls_input_password": "กรุณากรอกรหัสผ่าน"
 	},
 	"otp": {
 		"title": "ยืนยัน",
@@ -236,6 +240,7 @@
 	},
 	"main_screen": {
 		"main":"หน้าหลัก",
+		"profile": "โปรไฟล์",
 		"store":"ร้านค้า",
 		"consult":"ปรึกษา",
 		"favorite":"ถูกใจ",

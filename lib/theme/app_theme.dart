@@ -6,9 +6,9 @@ class AppTheme {
   static const _medium = FontWeight.w500;
   static const _semiBold = FontWeight.w600;
 
-  static const _highlightColor = Color(0xFF4DA395);
+  static const _highlightColor = Color.fromARGB(255, 180, 88, 27);
   static const _primaryColor = Color.fromARGB(255, 223, 134, 66);
-  static const _textColor = Colors.white;
+  static const _textColor = Color.fromARGB(255, 0, 0, 0);
   static final _subtitle1 = GoogleFonts.k2d(
     fontWeight: _medium,
     color: _textColor,
@@ -94,7 +94,7 @@ class AppTheme {
         bottomNavigationBarTheme: _bottomNavigationBarTheme,
         disabledColor: const Color(0xFFAAAAAA),
         dividerColor: const Color(0xFFEEEEEE),
-        highlightColor: const Color(0xFF4DA395),
+        highlightColor: const Color.fromARGB(255, 180, 88, 27),
         hintColor: const Color(0xFF999999),
         primaryColor: _primaryColor,
         scaffoldBackgroundColor: const Color(0xFFF3F3F4),

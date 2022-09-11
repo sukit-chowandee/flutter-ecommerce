@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:shopee_clone/modules/main/views/widgets/main_bottom_navigation_bar.dart';
+import 'package:shopee_clone/modules/main/views/widgets/main_screens.dart';
 
 class MainScreen extends StatefulWidget {
   static const String route = 'main';
@@ -14,17 +16,8 @@ class _MainScreenState extends State<MainScreen>
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-      body: Text("data"),
+      body: MainScreens(),
+      bottomNavigationBar: MainBottomNavigationBar(),
     );
-  }
-
-  @override
-  void initState() {
-    super.initState();
-  }
-
-  @override
-  void dispose() {
-    super.dispose();
   }
 }

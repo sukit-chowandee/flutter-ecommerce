@@ -78,11 +78,8 @@ class LoginImages {
 }
 
 class TabbarImages {
-  static const String tabHome = "assets/tabbar/tab_home.svg";
-  static const String tabShop = "assets/tabbar/tab_shop.svg";
-  static const String tabConsult = "assets/tabbar/tab_consult.svg";
-  static const String tabFavorite = "assets/tabbar/tab_favorite.svg";
-  static const String tabMap = "assets/tabbar/tab_map.svg";
+  static const String tabStore = "assets/tabbar/tab_store.svg";
+  static const String tabProfile = "assets/tabbar/tab_profile.svg";
 }
 
 class OTPImages {

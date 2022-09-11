@@ -20,7 +20,11 @@
 		"new_user": "New User"
 	},
 	"login": {
-		"sign_in": "Sing in"
+		"sign_in": "Sing in",
+		"username": "Username",
+		"password": "Password",
+		"pls_input_username": "Please Input Username",
+		"pls_input_password": "Please Input Password"
 	},
 	"otp": {
 		"title": "Confirm OTP",
@@ -236,6 +240,7 @@
 	},
 	"main_screen": {
 		"main":"Main",
+		"profile": "Profile",
 		"store":"Store",
 		"consult":"Consult",
 		"favorite":"Favorite",
